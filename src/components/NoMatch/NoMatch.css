@@ -1,0 +1,10 @@
+.noMatch-area{
+    font-size: 35px; 
+    background-color: #ff4a02;
+    margin-left: 320px;
+    margin-top: 100px;
+    color: white;
+    border-radius: 100px;
+    width: 700px;
+    padding: 70px;
+}
